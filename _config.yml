@@ -1,8 +1,8 @@
 # User Settings | Edit there as per required
 
-title: accent
-url: "http://ankitsultana.com"
-baseurl: "/accent"
+title: James' Blog
+url: "https://blog.squeezebox.xyz"
+baseurl: "/"
 
 # This will show up at the top of index page
 site_heading: >
@@ -32,7 +32,7 @@ short_bio: >
 permalink: /:title.html
 
 # Comments are powered by disqus
-comments: true
+comments: false
 
 # keep about_stub roughly 12 words long for best results
 # This will show up at the bottom of each post
