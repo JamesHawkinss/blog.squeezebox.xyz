@@ -6,17 +6,17 @@ baseurl: "/"
 
 # This will show up at the top of index page
 site_heading: >
-    foo <span class="faded">'s blog</span>
+    James'<span class="faded"> blog</span>
 
-email: your@email.com
-author: yourname
+email: jhawki2005@gmail.com
+author: James Hawkins
 # This description will show up in google search results
 # (for index page) etc.
 description: >
-    accent is, as Trump would put it, the best
+    Welcome to James' blog.
 
 # This will what will show against &copy; in the footer
-copyright: accent
+copyright: Accent, a Jekyll theme
 # Toggle your short bio, which will displayed on your index page
 # Just toggle it and run jekyll again to see
 intro: false         # Tip: Remove the span from site_heading if intro is set to true
@@ -43,9 +43,8 @@ about_stub: >
 
 about_footer: true
 
-twitter_username: AnkitSultana
-github_username: yourgithub
-facebook_id: yourusername
+twitter_username: jhawki2005
+github_username: JamesHawkinss
 
 favicon: true
 favicon_location: "images/favicon.ico"
