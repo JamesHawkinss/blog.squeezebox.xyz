@@ -16,7 +16,7 @@ description: >
     Welcome to James' blog.
 
 # This will what will show against &copy; in the footer
-copyright: Accent, a Jekyll theme
+copyright: Accent
 # Toggle your short bio, which will displayed on your index page
 # Just toggle it and run jekyll again to see
 intro: false         # Tip: Remove the span from site_heading if intro is set to true
@@ -29,7 +29,7 @@ short_bio: >
     </a>
     to know how.
 
-permalink: /:title.html
+permalink: /:title
 
 # Comments are powered by disqus
 comments: false
@@ -39,7 +39,7 @@ comments: false
 # Note that about_footer should be true if you want
 # to see author information at the bottom of each post
 about_stub: >
-    Keep this sentence less than 13 words or it won't look good.
+    Grinding out that DofE Bronze!
 
 about_footer: true
 
@@ -47,9 +47,9 @@ twitter_username: jhawki2005
 github_username: JamesHawkinss
 
 favicon: true
-favicon_location: "images/favicon.ico"
+favicon_location: "images/logo.jpg"
 
-profile_picture: images/temp.png
+profile_picture: images/logo.jpg
 paginate: 5
 paginate_path: "/page/:num"
 tracking_id: UA-69243698-7 # GA Tracking ID
