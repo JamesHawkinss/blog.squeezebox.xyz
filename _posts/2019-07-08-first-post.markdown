@@ -4,7 +4,7 @@ This is where I plan to complete the Skills section of my DofE Award. You never 
 
 #### Who's assessing me?
 
-I'm being assessed by the amazing Lili Cooper. She used to tutor me when I was home-ed back in Year 6, but now she's off travelling around Europe with Abi.
+I'm being assessed by the amazing Lili Cooper. She used to tutor me when I was home-ed back in Year 6, but now she's off travelling around Europe with Abi. Lili's Instagram handel is @gearsforqueers
 
 #### What are my aims?
 
