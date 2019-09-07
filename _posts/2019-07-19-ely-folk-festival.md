@@ -1,3 +1,7 @@
+---
+title: Ely Folk Festival
+date: 2019-07-18T11:53:38.089Z
+---
 # Lots has happened!
 
 #### Let's start with Ely.
