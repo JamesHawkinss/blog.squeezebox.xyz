@@ -1,6 +1,6 @@
 ---
 title: Cambridge Folk Festival
-date: 2019-08-08T11:58:53.272Z
+date: 2019-08-08T12:00:35.342Z
 ---
 # The festival was great!
 
