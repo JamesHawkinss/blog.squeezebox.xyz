@@ -1,3 +1,7 @@
+---
+title: Holidayyyy
+date: 2019-08-18T12:06:30.353Z
+---
 # I went on holiYAY!
 
 So not much happened between the [CFF](./cambridge-folk-festival) and Northumberland, to be honest. The only main thing was going to watch the new Fast and Furious with Dad. It was great, I really enjoyed it.
