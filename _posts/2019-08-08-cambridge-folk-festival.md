@@ -1,8 +1,12 @@
+---
+title: Cambridge Folk Festival
+date: 2019-08-08T11:58:53.272Z
+---
 # The festival was great!
 
 #### What happened at CFF?
 
-Cambridge Folk Festival was four days long, and I camped there with my Mum and my sister every night. We all had full-festival passes, and so did my grandparents. Here's a playlist of all the artists playing at the Folk Festival: https://open.spotify.com/playlist/29EtpckbZMS7CZafZI3W40?si=RXtYN9P9T9S-EJAlFivK2A&fbclid=IwAR0eC1wT_VTwNqMWW7wZta5vIet-gGNSA2hxdrAhrOfRFcPNUTcDnKOnLl4
+Cambridge Folk Festival was four days long, and I camped there with my Mum and my sister every night. We all had full-festival passes, and so did my grandparents. Here's a playlist of all the artists playing at the Folk Festival: [Spotify Playlist](https://open.spotify.com/playlist/29EtpckbZMS7CZafZI3W40?si=RXtYN9P9T9S-EJAlFivK2A&fbclid=IwAR0eC1wT_VTwNqMWW7wZta5vIet-gGNSA2hxdrAhrOfRFcPNUTcDnKOnLl4)
 
 We arrived on Thursday and set up our tent near to the Flower Garden, the Hub and the Sessions Café. We accidentally broke one of the poles when putting it up, so it looked a bit wonky from the outside. Oops! Thursday was overall a nice relaxed day. We had a nice time listening to the music on Stage 2 (Stage 1 didn't open on Thursday). One of my highlights was heading over to the Club Tent to listen to Rura, a fantastic Scottish band. The music was great and they were just so funny! They also played on Stage 1 on Friday, but I didn't catch them there. Ralph McTell finished off the night on Stage 2 with his one hit "Streets of London". Apparently it's a really emotional song, and most of my family started crying - I didn't see what was so emotional about it though. Once he'd finished at around 11:30pm we said goodbye to the grandparents and headed towards the Hub (there was a late-night session going on). The CFF staff outside the Hub convinced me to sign up for the Hub Band Project, but I'll talk more about that later. I stayed at the Hub for about an hour playing tunes with some really friendly musicians before heading off to bed at just gone midnight.
 
