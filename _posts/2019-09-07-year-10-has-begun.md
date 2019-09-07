@@ -9,7 +9,7 @@ date: 2019-09-07T11:47:24.599Z
 
 I honestly can't get my head around the fact that the holidays were nearly 7 weeks long and it felt like it flew by. Seriously, 7 weeks is not a long time when you're actually enjoying yourself. 
 
-I haven't been writing any blog posts recently because I really didn't do much towards the end of 
+I haven't been writing any blog posts recently because I really didn't do much towards the end of the holidays. 
 
 #### My first week
 
@@ -23,4 +23,12 @@ Overall I've had a very nice first week, and I'm looking forward to the rest of 
 
 I'm looking forward to the first school play rehearsal for High School Musical, which is on Tuesday. I still need to learn most of my lines but it's gonna be fine :p
 
-#### My first week
+Expect to be hearing a lot more about High School Musical in the future!
+
+#### The Somme
+
+Next Friday I've got a school trip to the Somme, which I'm really looking forward to. I've got to be at school at 4am though so that bit isn't as exciting, but France isn't exactly down the road!
+
+I'm definitely going to write about my Somme experience when I get back, so keep an eye out for that.
+
+### Bye for now!
