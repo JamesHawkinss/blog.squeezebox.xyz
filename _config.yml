@@ -2,7 +2,6 @@
 
 title: James' Blog
 url: "https://blog.squeezebox.dev"
-baseurl: "/"
 
 # This will show up at the top of index page
 site_heading: >
