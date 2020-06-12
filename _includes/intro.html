@@ -4,14 +4,8 @@
             {% if site.profile_picture %}
                 <img id="intro-img" src="{{ site.profile_picture }}">
             {% endif %}
-            <h2>
-                {% if site.site_heading %}
-                    {{ site.site_heading }}
-                {% else %}
-                    {{ site.title }}
-                {% endif %}
-            </h2>
-            <p style="margin-top: 30px;">
+            <h2>{{ site.site_heading }}</h2>
+            <p style="margin-top: 15px;">
                 {{ site.short_bio }}
             </p>
         </div>
