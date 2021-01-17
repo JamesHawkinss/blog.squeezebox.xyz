@@ -1,26 +1,26 @@
 # User Settings | Edit there as per required
 
-title: James' Blog
+title: james' blog
 url: "https://blog.squeezebox.dev"
 
 # This will show up at the top of index page
-site_heading: James' blog
+site_heading: james' blog
 
 email: jhawki2005@gmail.com
-author: James Hawkins
+author: james hawkins
 # This description will show up in google search results
 # (for index page) etc.
 description: >
-    Hi there! I'm James, and this is my blog.
+    james hawkins - blog
 
 # This will what will show against &copy; in the footer
-copyright: James Hawkins
+copyright: james hawkins
 # Toggle your short bio, which will displayed on your index page
 # Just toggle it and run jekyll again to see
 intro: true         # Tip: Remove the span from site_heading if intro is set to true
 # This will be displayed in your intro
 short_bio: >
-    Hi there! I'm James, and this is my blog.
+    james hawkins - blog
 
 permalink: /:title
 
@@ -32,7 +32,7 @@ comments: false
 # Note that about_footer should be true if you want
 # to see author information at the bottom of each post
 about_stub: >
-    I hope you enjoyed reading!
+    thanks for reading!
 
 about_footer: true
 
